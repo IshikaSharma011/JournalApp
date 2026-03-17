@@ -15,8 +15,8 @@ async function Header() {
       <nav className="py-6 px-4 flex justify-between items-center">
         <Link href="/">
           <Image
-            src={"/logo.png"}
-            alt="Reflct Logo"
+            src={"/m.png"}
+            alt="Logo"
             width={200}
             height={60}
             className="h-10 w-auto object-contain"

@@ -8,8 +8,8 @@ import "react-quill-new/dist/quill.snow.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Reflct",
-  description: "",
+  title: "My-Reflections",
+  description: "Journal app to capture your thoughts and reflect on your journey.",
 };
 
 export default function RootLayout({ children }) {
