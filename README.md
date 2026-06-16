@@ -1,7 +1,8 @@
-this link is live you can create and use it for your journal:
+This link is live you can create and use it for your journal:<br>
 https://my-reflections.onrender.com
+<br>
 
-
+FOr Database I have used NeonDB.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
