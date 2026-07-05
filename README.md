@@ -8,7 +8,7 @@
 
 ## ✨ Overview
 
-Reflection is an AI-powered journal and mood tracking application built to help users document their daily thoughts, track emotional well-being, and gain meaningful insights through AI.
+Reflection is a journal app with mood tracking built to help users document their daily thoughts, track emotional well-being, and gain meaningful insights through AI.
 
 Whether you're writing about your day, recording important memories, or reflecting on your emotions, Reflection provides a beautiful, secure, and distraction-free space for self-growth.
 
@@ -56,7 +56,7 @@ https://my-reflections.onrender.com
 
 <!-- Add Screenshot Here -->
 
-![Mood](images/dashboards.jpg)
+![Mood](images/ddashboard.jpg)
 
 ---
 
@@ -64,7 +64,7 @@ https://my-reflections.onrender.com
 
 <!-- Add Screenshot Here -->
 
-![Profile](images/arcjet.png)
+![Profile](images/arcjet.jpg)
 
 ---
 
