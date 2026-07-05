@@ -107,112 +107,51 @@ https://my-reflections.onrender.com
 ### Security
 
 - Arcjet
-
-### Deployment
-
-- Render
-
 ---
+## 🛡️ Security with Arcjet
 
-# 📂 Folder Structure
+Reflection uses **Arcjet** to enhance application security and protect backend resources from malicious traffic and abuse.
 
-```text
-app/
-components/
-actions/
-hooks/
-lib/
-prisma/
-public/
-styles/
-```
+### Why Arcjet?
 
----
+Since the application integrates AI services and user authentication, it is important to prevent automated attacks. Arcjet provides an additional security layer before requests reach the server.
 
-# ⚙️ Getting Started
+### Protection Features
 
-Clone the repository
+- 🚫 **Rate Limiting**
+  - Restricts the number of requests a user can make within a given time period.
+  - Prevents API abuse and protects AI endpoints from excessive requests.
 
-```bash
-git clone https://github.com/your-username/reflection.git
-```
+- 🤖 **Bot Detection**
+  - Identifies automated bots and suspicious traffic.
+  - Allows legitimate users while filtering malicious requests.
 
-Move into the project
+- ⚡ **Request Shielding**
+  - Blocks unwanted or abnormal traffic before it reaches the application.
+  - Reduces unnecessary server load.
 
-```bash
-cd reflection
-```
+- 🛡️ **Enhanced Backend Security**
+  - Adds an extra layer of protection on top of authentication.
+  - Improves the overall reliability and security of the application.
 
-Install dependencies
+### Benefits
 
-```bash
-npm install
-```
+- Improved application security
+- Better protection against spam and bots
+- More reliable experience for legitimate users
 
-Run the development server
-
-```bash
-npm run dev
-```
-
-Open
-
-```
-http://localhost:3000
-```
-
----
-
-# 🔐 Environment Variables
-
-Create a `.env.local` file and add the required environment variables.
-
-```env
-DATABASE_URL=
-
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
-
-OPENAI_API_KEY=
-
-ARCJET_KEY=
-```
-
----
 
 # 📌 Future Improvements
 
-- Voice Journaling
-- AI Chat with Previous Entries
 - Smart Journal Search
 - Journal Tags & Categories
-- Calendar View
-- PDF Export
-- Daily Reminders
 - Emotion Prediction
-- AI Reflection Suggestions
-- Mobile Application
 
 ---
 
 # 🎥 Project Inspiration
 
-This project was built while learning modern full-stack development concepts from the following tutorial:
-
-https://youtu.be/cYGAPVUtQ-U?si=7w64cOugmJIi0lH1
+This project was built while learning modern full-stack development concepts from **RoadsideCoder**
 
 The application has been customized and extended with my own implementation, design improvements, and deployment.
 
----
-
-# 🙌 Acknowledgements
-
-Special thanks to **RoadsideCoder** for the excellent educational content that inspired the foundation of this project.
-
----
-
-# 👩‍💻 Author
-
-**Ishika Sharma**
-
-If you enjoyed this project, consider giving it a ⭐ on GitHub!
