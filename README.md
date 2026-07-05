@@ -28,11 +28,11 @@ https://my-reflections.onrender.com
 
 > Replace these placeholders with your project screenshots.
 
-## 🏠 Home Page
+## 🏠 SignUp Page
 
 <!-- Add Screenshot Here -->
 
-![Home](images/home.png)
+![Home](images/login.jpg)
 
 ---
 
@@ -40,7 +40,7 @@ https://my-reflections.onrender.com
 
 <!-- Add Screenshot Here -->
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ https://my-reflections.onrender.com
 
 <!-- Add Screenshot Here -->
 
-![Journal](images/journal.png)
+![Journal](images/writeup.jpg)
 
 ---
 
@@ -56,23 +56,15 @@ https://my-reflections.onrender.com
 
 <!-- Add Screenshot Here -->
 
-![Mood](images/mood.png)
+![Mood](images/dashboards.jpg)
 
 ---
 
-## 📊 Analytics
+## 👤 Arcjet
 
 <!-- Add Screenshot Here -->
 
-![Analytics](images/analytics.png)
-
----
-
-## 👤 User Profile
-
-<!-- Add Screenshot Here -->
-
-![Profile](images/profile.png)
+![Profile](images/arcjet.png)
 
 ---
 
@@ -112,9 +104,9 @@ https://my-reflections.onrender.com
 
 - NeonDB (PostgreSQL)
 
-### AI
+### Security
 
-- OpenAI API
+- Arcjet
 
 ### Deployment
 
