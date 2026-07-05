@@ -1,7 +1,7 @@
 # 🌿 My Reflections - AI Journal & Mood Tracking App
 
 <p align="center">
-  <strong>Your private AI-powered journaling companion for writing, reflecting, and understanding your emotions.</strong>
+  <strong>Your private journaling companion for writing, reflecting, and understanding your emotions.</strong>
 </p>
 
 ---
